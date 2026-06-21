@@ -1,2 +1,14 @@
 # scorehub-app-journal
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
